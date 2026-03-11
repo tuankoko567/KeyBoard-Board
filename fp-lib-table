@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ABM8_12MHZ")(type "KiCad")(uri "${KIPRJMOD}/Library/ABM8-12.000MHZ-B2-T3/ABM8_12MHZ.pretty")(options "")(descr ""))
+  (lib (name "SOIC-8")(type "KiCad")(uri "${KIPRJMOD}/Library/W25Q128JVSIQ/SOIC127.pretty")(options "")(descr ""))
+  (lib (name "tactile_switch_6x6mm")(type "KiCad")(uri "${KIPRJMOD}/Library/SWT0315-050025GSA_REVA/Tactile_Switch_6x6mm.pretty")(options "")(descr ""))
+  (lib (name "PG151101S11")(type "KiCad")(uri "D:/IoTVision_KeyBoardV2.0_20251213/footprints/PG151101S11/SW_PG151101S11.pretty")(options "")(descr ""))
+  (lib (name "MX1A-11NN")(type "KiCad")(uri "${KIPRJMOD}/Library/MX1A-11NN/MX1A-11NN.pretty")(options "")(descr ""))
+  (lib (name "RGB_LED_5050")(type "KiCad")(uri "${KIPRJMOD}/Library/SK6812/RGB_LED_5050.pretty")(options "")(descr ""))
+  (lib (name "SOT95P")(type "KiCad")(uri "D:/KeyBoard_Fedevel/Library/USBLC6-2SC6/SOT95P.pretty")(options "")(descr ""))
+)

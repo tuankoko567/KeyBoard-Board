@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ABM8_12MHZ")(type "KiCad")(uri "${KIPRJMOD}/Library/ABM8-12.000MHZ-B2-T3/ABM8-12.000MHZ-B2-T3.kicad_sym")(options "")(descr ""))
+  (lib (name "W25Q128JVSIQ")(type "KiCad")(uri "${KIPRJMOD}/Library/W25Q128JVSIQ/W25Q128JVSIQ.kicad_sym")(options "")(descr ""))
+  (lib (name "PG151101S11")(type "KiCad")(uri "D:/IoTVision_KeyBoardV2.0_20251213/footprints/PG151101S11/PG151101S11.kicad_sym")(options "")(descr ""))
+  (lib (name "switch_keyboard")(type "KiCad")(uri "${KIPRJMOD}/Library/MX1A-11NN/MX1A-11NN.kicad_sym")(options "")(descr ""))
+  (lib (name "RGB_LED")(type "KiCad")(uri "${KIPRJMOD}/Library/SK6812/SK6812.kicad_sym")(options "")(descr ""))
+  (lib (name "USBLC6-2SC6")(type "KiCad")(uri "${KIPRJMOD}/Library/USBLC6-2SC6/USBLC6-2SC6.kicad_sym")(options "")(descr ""))
+)
